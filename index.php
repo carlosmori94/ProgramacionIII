@@ -4,9 +4,8 @@
 </head>
 <body>
 <h1>Hola !!! </h1>
-
-</body>
-</html>
 <?php
 echo "Hola php";
  ?>
+</body>
+</html>
